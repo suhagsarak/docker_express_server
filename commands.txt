@@ -1,0 +1,16 @@
+docker image build -t nodeserver .
+
+docker container run -it --name nodeservercontainer -p 6666:6666 nodeserver
+
+
+
+config/default.json
+
+{
+    "host":"192.168.5.120",
+    "database":"db",
+    "user":"root",
+    "password":"root",
+    "dbport": 3306,
+    "serport" :6666
+}

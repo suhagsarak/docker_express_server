@@ -1,0 +1,8 @@
+{
+    "host":"192.168.5.121",
+    "database":"hr",
+    "user":"root",
+    "password":"root",
+    "dbport": 4444,
+    "serport" :6666
+}

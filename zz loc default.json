@@ -1,0 +1,8 @@
+{
+    "host":"loalhost",
+    "database":"dac_db",
+    "user":"dac",
+    "password":"dac",
+    "dbport": 3306,
+    "serport" :6667
+}
