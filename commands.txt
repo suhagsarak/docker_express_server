@@ -1,6 +1,6 @@
-docker image build -t nodeserver .
+docker image build -t nodeimg .
 
-docker container run -it --name nodeservercontainer -p 6666:6666 nodeserver
+docker container run -itd --name nodecon -p 7777:6666 nodeimg
 
 
 

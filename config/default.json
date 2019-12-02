@@ -1,6 +1,6 @@
 {
-    "host":"192.168.5.121",
-    "database":"hr",
+    "host":"172.18.5.70",
+    "database":"db",
     "user":"root",
     "password":"root",
     "dbport": 4444,
