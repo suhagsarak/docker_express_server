@@ -9,6 +9,8 @@
 	
 	EXPOSE 6666
 
+	CMD npm install
+	
 	CMD node server.js
 
 
