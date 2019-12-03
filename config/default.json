@@ -4,5 +4,5 @@
     "user":"root",
     "password":"root",
     "dbport": 4444,
-    "serport" :6666
+    "serport" :5555
 }

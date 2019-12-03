@@ -7,9 +7,7 @@
 
 	COPY . .
 	
-	EXPOSE 6666
-
-	CMD npm install
+	EXPOSE 5555
 	
 	CMD node server.js
 
