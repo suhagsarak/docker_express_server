@@ -3,7 +3,7 @@
 
 	FROM node:alpine
 	
-	WORKDIR /app
+	WORKDIR /devops pr/docker_jenkins_mean_app/server
 
 	COPY . .
 	
